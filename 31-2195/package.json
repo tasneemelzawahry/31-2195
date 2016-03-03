@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "author": "Amr Draz <amr.m.draz@gmail.com>",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
+  }
+}
