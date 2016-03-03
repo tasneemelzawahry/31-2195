@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment 1
 
 ## Objective
@@ -437,3 +438,6 @@ describe('API', function() {
 The assignment is worth 3% of your project grade
 It is individual
 Deadline Sunday the 28th of Feb
+=======
+# 31-2195
+>>>>>>> f9a85dd58421561970c67cb63a80f3ea6725203b
